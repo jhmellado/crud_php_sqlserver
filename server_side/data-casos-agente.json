@@ -1,0 +1,1138 @@
+[
+    {
+        "tagData": null,
+        "id_leads": 11804,
+        "creation_date": "2023-06-09T15:37:43.000Z",
+        "last_date": "2023-08-08T13:29:41.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "68671795 ",
+        "tag_description": "• Rut Paciente: 6.867.179-5 \n• Nombre Paciente: PATRICIO DAVID VALENZUELA VALENZUELA\n• Teléfono: 989942855\n• Especialidad: CARDIOLOGÍA ADULTO\n• Médico Tratante: HUGO GARCÍA\n• Exámenes Médicos: SI           \n• Tiene Carnet de Control: SI\n•  Fecha Prox. Control: MAYO 2023\n• Descripción del caso: PACIENTE SOLICITA HORA DE CONTROL DE CARDIOLOGÍA ADULTO CON EL DR. HUGO GARCÍA, PARA PRESENTAR EXÁMENES.\nADEMÁS, PACIENTE PRONTO ENTRARÁ A PABELLÓN POR TRAUMATOLOGÍA (PRÓTESIS DE RODILLA) Y NECESITA CONTROL CON CARDIOLOGÍA. URGENTE\n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : pcte ya esta en nuestra lista de esperar numero 29 del mes de abril 2023; solo debe esperar el llamado \n",
+        "tag_name": "PATRICIO DAVID VALENZUELA VALENZUELA",
+        "status": "open",
+        "column": 0,
+        "position": 1,
+        "interest": 2,
+        "favorite": 0,
+        "group": 11804,
+        "id_categoria": 3,
+        "leadId": 8477,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12768,
+                "label": "",
+                "number": "226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-09T15:37:43.000Z",
+                "updatedAt": "2023-06-09T15:37:43.000Z",
+                "id_leads": 11804
+            },
+            {
+                "phoneId": 12769,
+                "label": "",
+                "number": "56989942855",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-09T15:37:43.000Z",
+                "updatedAt": "2023-06-09T15:39:40.000Z",
+                "id_leads": 11804
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11797,
+        "creation_date": "2023-06-09T14:42:19.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56979839045",
+        "id_agent": 57,
+        "tag_title": "60817723 ",
+        "tag_description": "• Rut Paciente: 6.081.772-3 \n• Nombre Paciente: HÉCTOR RAÚL REYES ALARCÓN\n• Teléfono: 979839045\n• Especialidad: CARDIOLOGÍA ADULTO\n• Médico Tratante: MIGUEL ANDRADE\n• Exámenes Médicos: SI, RESULTADOS LISTOS           \n• Tiene Carnet de Control: SI\n•  Fecha Prox. Control: CON EXÁMENES\n• Descripción del caso: PACIENTE SOLICITA HORA DE CONTROL DE CARDIOLOGÍA ADULTO CON EL DR. MIGUEL ANDRADE, PARA PRESENTAR EXÁMENES.\n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : se deja pcte en nuestros registros internos; solo debe esperar el llamado \n",
+        "tag_name": "HÉCTOR RAÚL REYES ALARCÓN",
+        "status": "open",
+        "column": 0,
+        "position": 2,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11797,
+        "id_categoria": 3,
+        "leadId": 8470,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12756,
+                "label": "",
+                "number": "56979839045",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-09T14:42:19.000Z",
+                "updatedAt": "2023-06-09T14:42:19.000Z",
+                "id_leads": 11797
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11788,
+        "creation_date": "2023-06-09T13:42:31.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56957095443",
+        "id_agent": 57,
+        "tag_title": "5204295k",
+        "tag_description": "•Rut Paciente:5204295k\n•Nombre Paciente: JUANA HUINCACHE JARA \n•Teléfono:  957095443 989015652\n•Especialidad: TRAUMATOLOGIA CADERA\n•Médico Tratante: DR. MANUEL CHRISTIAN ACOSTA\n•Descripción del caso: HORA DE CONTROL\n•Exámenes médicos: NO\n\nRESPUESTA DE REQUERIMIENTO 08-08 : se asigna hora d control para el 31/08/2023 a las 12:30 horas con dr acosta \n",
+        "tag_name": "JUANA HUINCACHE JARA ",
+        "status": "open",
+        "column": 0,
+        "position": 3,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11788,
+        "id_categoria": 3,
+        "leadId": 8461,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12738,
+                "label": "",
+                "number": "56957095443",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-09T13:42:31.000Z",
+                "updatedAt": "2023-06-09T13:42:31.000Z",
+                "id_leads": 11788
+            },
+            {
+                "phoneId": 12739,
+                "label": "",
+                "number": "56989015652",
+                "rank": 1,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-09T13:43:31.000Z",
+                "updatedAt": "2023-06-09T13:43:33.000Z",
+                "id_leads": 11788
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11779,
+        "creation_date": "2023-06-09T12:22:49.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "54384823",
+        "tag_description": "•\tRut Paciente:  54384823\n•\tNombre Paciente: MARIANELA GALLARDO GAETE \n•\tTeléfono: 83316588\n•\tEspecialidad: NEUROLOGIA \n•\tMédico Tratante:   DRA EVA RETAMAL\n•           Examenes Medicos:  SI          \n•\tTiene Carnet de Control: SI\n•           Fecha prox Control: JUNIO 2023\n•\tDescripción del caso:  ULTIMO CONTROL DIC 2022 PCTE INDICA QNECEISTA HORA DE CONTROL \n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : se deja pcte en nuestros registros internos; solo debe esperar el llamado \n\n",
+        "tag_name": "MARIANELA GALLARDO GAETE ",
+        "status": "open",
+        "column": 0,
+        "position": 4,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11779,
+        "id_categoria": 3,
+        "leadId": 8452,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12721,
+                "label": "",
+                "number": "56226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-09T12:22:49.000Z",
+                "updatedAt": "2023-06-09T12:22:49.000Z",
+                "id_leads": 11779
+            },
+            {
+                "phoneId": 12720,
+                "label": "",
+                "number": "83316588",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-09T12:22:49.000Z",
+                "updatedAt": "2023-06-09T12:23:31.000Z",
+                "id_leads": 11779
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11778,
+        "creation_date": "2023-06-09T11:41:52.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "66178919",
+        "tag_description": "\n•\tRut Paciente: 66178919\n•\tNombre Paciente: GLADYS SILVA ALVEAR\n•\tTeléfono: 40529267\n•\tEspecialidad: NEUROLOGIA\n•\tMédico Tratante:   DR MARCELO RODRIGUEZ\n•           Examenes Medicos: SI             \n•\tTiene Carnet de Control: SI \n•           Fecha prox Control:    JUNIO 2023\n•\tDescripción del caso:  ULTYIMO CONTROL ABRIL 2023 PCTE INDICA Q NECESITA HORA DE CONTROL PARA REVISION DE EXAMENES\n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : pcte ya esta en nuestros registros interno numero 136 del mes de julio 2023; solo debe espoerar el llamado \n \n",
+        "tag_name": "GLADYS SILVA ALVEAR",
+        "status": "open",
+        "column": 0,
+        "position": 5,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11778,
+        "id_categoria": 3,
+        "leadId": 8451,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12718,
+                "label": "",
+                "number": "40529267",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-09T11:41:53.000Z",
+                "updatedAt": "2023-06-09T11:42:15.000Z",
+                "id_leads": 11778
+            },
+            {
+                "phoneId": 12719,
+                "label": "",
+                "number": "56226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-09T11:41:53.000Z",
+                "updatedAt": "2023-06-09T11:41:53.000Z",
+                "id_leads": 11778
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11777,
+        "creation_date": "2023-06-09T01:16:51.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56993521545",
+        "id_agent": 57,
+        "tag_title": "72521455 ",
+        "tag_description": "HORA CONTROL\n•\tRut Paciente: 72521455 \n•\tNombre Paciente: ANA LUISA IBÁÑEZ SOTO\n•\tTeléfono: 993521545 \n•\tEspecialidad: NEUROLOGIA\n•\tMédico Tratante:  CRISTIAN NEIRA\n•\tTiene Carnet de Control: SI\n•\tDescripción del caso: DR NEIRA LE INDICÓ EN ÚLTIMO CONTROL DE   16/01/2023 15:20 QUE DEBÍA VOLVER A CONTROLARLA EN JULIO 2023.  (Favor solicita paciente cita sea en horario PM)    \n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : pcte ya esta inscrito en nuestros registros internos numero 10 del mes de julio 2023; solo debe espererar el llamado \n                                 \n",
+        "tag_name": "ANA LUISA IBÁÑEZ SOTO",
+        "status": "open",
+        "column": 0,
+        "position": 6,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11777,
+        "id_categoria": 3,
+        "leadId": 8450,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12717,
+                "label": "",
+                "number": "56993521545",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-09T01:16:51.000Z",
+                "updatedAt": "2023-06-09T01:16:51.000Z",
+                "id_leads": 11777
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11773,
+        "creation_date": "2023-06-08T22:40:11.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56941233350",
+        "id_agent": 57,
+        "tag_title": "9237807-1",
+        "tag_description": "•Rut Paciente: 9237807-1\n•Nombre Paciente: JUAN HENRIQUEZ LLAMIN\n•Teléfono: 941233350\n•Especialidad: UROLOGIA\n•Médico Tratante: DR. EDUARDO MEDINA                         \n•Tiene Carnet de Control:              \n•Descripción del caso:  HORA CONTROL NO CANCER\n•Exámenes médicos: SI\n•Fecha deseable control: SOLICITA AGENDAR HORA CONTROL UROLOGIA\n\n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : se deja pcte en nuestros registros internos; solo debe esperar el llamado \n",
+        "tag_name": "JUAN HENRIQUEZ LLAMIN",
+        "status": "open",
+        "column": 0,
+        "position": 7,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11773,
+        "id_categoria": 3,
+        "leadId": 8446,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12710,
+                "label": "",
+                "number": "56941233350",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T22:40:12.000Z",
+                "updatedAt": "2023-06-08T22:40:12.000Z",
+                "id_leads": 11773
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11771,
+        "creation_date": "2023-06-08T22:27:50.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56983747843",
+        "id_agent": 57,
+        "tag_title": "57845333 ",
+        "tag_description": "SOLICITUD DE HORA DE CONTROL DE TRAUMATOLOGÍA MUÑECA\n\n• Rut Paciente: 5.784.533-3 \n• Nombre Paciente: ARCELIA AZUCENA DETTONI ELMES\n• Teléfono: 983747843\n• Especialidad: TRAUMATOLOGÍA MUÑECA\n• Médico Tratante: ANDREA VARAS\n• Exámenes Médicos: NO    \n• Descripción del caso: PACIENTE INDICA QUE LA DRA VARAS EN SU ÚLTIMO CONTROL DEL 2022 LE INDICÓ QUE CUANDO YA SINTIERA MUCHA MOLESTIA EN LOS DEDOS Y SINTIERA QUE YA NO LE RESPONDEN BIEN SOLICITARA CONTROL PARA EVALUAR POSIBLE OPERACIÓN-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------SOLICITUD DE HORA DE CONTROL DE TRAUMATOLOGÍA COLUMNA\n• Rut Paciente: 5.784.533-3 \n• Nombre Paciente: ARCELIA AZUCENA DETTONI ELMES\n• Teléfono: 983747843\n• Especialidad: TRAUMATOLOGÍA COLUMNA\n• Médico Tratante: SEBASTIAN MOBAREC\n• Exámenes Médicos: NO    \n• Descripción del caso: PACIENTE INDICA QUE YA TIENE LISTA LA RESONANCIA, NECESITA HORA\n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : tmt muñeca: se asigna hora de control para el 25/08/2023  alas 10:45 nhoras con dr ananias\n\n *cerrar trauma columna: pcte atendido el 28/07/2023 por dr mobarec/",
+        "tag_name": "ARCELIA AZUCENA DETTONI ELMES",
+        "status": "open",
+        "column": 0,
+        "position": 8,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11771,
+        "id_categoria": 3,
+        "leadId": 8444,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12708,
+                "label": "",
+                "number": "56983747843",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T22:27:50.000Z",
+                "updatedAt": "2023-06-08T22:27:50.000Z",
+                "id_leads": 11771
+            },
+            {
+                "phoneId": 12707,
+                "label": "",
+                "number": "983747843",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T22:27:50.000Z",
+                "updatedAt": "2023-06-08T22:27:50.000Z",
+                "id_leads": 11771
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11742,
+        "creation_date": "2023-06-08T17:04:23.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "80030479 ",
+        "tag_description": "• Rut Paciente: 8.003.047-9 \n• Nombre Paciente: JOSÉ PASCUAL GEYMER BRICEÑO\n• Teléfono: 993858172\n• Especialidad: UROLOGÍA ADULTO (CONTROL NORMAL)\n• Médico Tratante: PABLO AROCA\n• Exámenes Médicos: SI, TIENE EXÁMENES DE SANGRE Y TIENE PENDIENTE UN EXAMEN DE IMAGENOLOGÍA\n• Descripción del caso: PACIENTE SOLICITA RE-ANGENDAR HORA DE CONTROL DE UROLOGÍA ADULTO, CON DR. PABLO AROCA, PARA PRESENTAR EXÁMENES. YA QUE NO PUDO ASISTIR AL CONTROL ANTERIOR POR MOTIVOS PERSONALES.\nDIAGNÓSTICO: PRÓSTATA INFLAMADA E INFECCIÓN URINARIA.\n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : se deja pcte en nuestros registros internos; solo debe esperar el llamado \n",
+        "tag_name": "JOSÉ PASCUAL GEYMER BRICEÑO",
+        "status": "open",
+        "column": 0,
+        "position": 9,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11742,
+        "id_categoria": 3,
+        "leadId": 8415,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12658,
+                "label": "",
+                "number": "56226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T17:04:23.000Z",
+                "updatedAt": "2023-06-08T17:04:23.000Z",
+                "id_leads": 11742
+            },
+            {
+                "phoneId": 12657,
+                "label": "",
+                "number": "56993858172",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T17:04:23.000Z",
+                "updatedAt": "2023-06-08T17:06:47.000Z",
+                "id_leads": 11742
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11741,
+        "creation_date": "2023-06-08T16:24:02.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "139230299 ",
+        "tag_description": "• Rut Paciente: 13.923.029-9 \n• Nombre Paciente: VERÓNICA CECILIA SCHIAPPACASSE SCHIAPPACASSE\n• Teléfono: 997532741/ 991688989\n• Especialidad: NEUROLOGÍA ADULTO\n• Médico Tratante: JOSE FRANCISCO VALLEJOS\n• Exámenes Médicos: NO            \n• Tiene Carnet de Control: SI\n•  Fecha Prox. Control: JUNIO 2023\n• Descripción del caso: PACIENTE SOLICITA HORA DE CONTROL DE NEUROLOGÍA ADULTO CON EL DR. JOSE FRANCISCO VALLEJOS, PARA JUNIO \n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : se deja pcte en nuestros registros internos; solo debe esperar el llamado \n",
+        "tag_name": "VERÓNICA CECILIA SCHIAPPACASSE SCHIAPPACASSE",
+        "status": "open",
+        "column": 0,
+        "position": 10,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11741,
+        "id_categoria": 3,
+        "leadId": 8414,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12656,
+                "label": "",
+                "number": "56991688989",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T16:24:03.000Z",
+                "updatedAt": "2023-06-08T16:25:25.000Z",
+                "id_leads": 11741
+            },
+            {
+                "phoneId": 12655,
+                "label": "",
+                "number": "56997532741",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T16:24:03.000Z",
+                "updatedAt": "2023-06-08T16:25:26.000Z",
+                "id_leads": 11741
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11740,
+        "creation_date": "2023-06-08T16:13:53.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "116563886",
+        "tag_description": "•Rut Paciente: 116563886\n•Nombre Paciente: GABRIEL EDUARDO OLIVARES SOZA \n•Teléfono:  976221161\n•Especialidad: Gastroenterología Ad\n•Médico Tratante: DR. FRANCISCO ANTONIO TORTOROLO\n•Descripción del caso: HORA DE CONTROL\n•Exámenes médicos: SI\n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : se deja pcte en nuestros registros internos; solo debe esperar el llamado \n",
+        "tag_name": "GABRIEL EDUARDO OLIVARES SOZA ",
+        "status": "open",
+        "column": 0,
+        "position": 11,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11740,
+        "id_categoria": 3,
+        "leadId": 8413,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12654,
+                "label": "",
+                "number": "56226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T16:13:53.000Z",
+                "updatedAt": "2023-06-08T16:13:53.000Z",
+                "id_leads": 11740
+            },
+            {
+                "phoneId": 12653,
+                "label": "",
+                "number": "56976221161",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T16:13:53.000Z",
+                "updatedAt": "2023-06-08T16:14:57.000Z",
+                "id_leads": 11740
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11719,
+        "creation_date": "2023-06-08T14:03:52.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "5789749K ",
+        "tag_description": "• Rut Paciente: 5.789.749-K \n• Nombre Paciente: PATRICIO ALEJANDRO VARGAS GAVILÁN\n• Teléfono: 940031664\n• Especialidad: NEUROLOGÍA ADULTO\n• Médico Tratante: OLGA BENAVIDES\n• Exámenes Médicos: SI, RESULTADOS LISTOS \n• Tiene Carnet de Control: SI\n•  Fecha Prox. Control: CON EXÁMENES\n• Descripción del caso: PACIENTE SOLICITA HORA DE CONTROL NEUROLOGÍA ADULTO CON LA DRA. OLGA BENAVIDES, PARA PRESENTAR EXÁMENES.\n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : pcte ya esta inscrito en nuestros registros internos numero 158 del mes de julio 2023; solo debe esperar que lo llamen \n",
+        "tag_name": "PATRICIO ALEJANDRO VARGAS GAVILÁN",
+        "status": "open",
+        "column": 0,
+        "position": 12,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11719,
+        "id_categoria": 3,
+        "leadId": 8392,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12612,
+                "label": "",
+                "number": "56226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T14:03:52.000Z",
+                "updatedAt": "2023-06-08T14:03:52.000Z",
+                "id_leads": 11719
+            },
+            {
+                "phoneId": 12611,
+                "label": "",
+                "number": "56940031664",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T14:03:52.000Z",
+                "updatedAt": "2023-06-08T14:05:30.000Z",
+                "id_leads": 11719
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 11715,
+        "creation_date": "2023-06-08T13:44:06.000Z",
+        "last_date": "2023-08-08T13:29:36.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "6544523-9",
+        "tag_description": " Rut Paciente: 6544523-9\n Nombre Paciente: Freddy Bustos Abarzua\n Teléfono: 957302933\n Especialidad: Neurologia Adulto\n Médico Tratante:  Dr Cristian Neira\n Examenes medicos:  NO     \n Tiene Carnet de Control: SI\n Fecha prox. control: Septiembre 2023\n Descripción del caso: Paciente solicita agendar hora de control para Neurologia Adulto\n\n\nRESPUESTA DE REQUERIMIENTO 08-08 : se deja pcte en nuestros registros internos; solo debe esperar el llamado \n",
+        "tag_name": "Freddy Bustos Abarzua",
+        "status": "open",
+        "column": 0,
+        "position": 13,
+        "interest": 0,
+        "favorite": 0,
+        "group": 11715,
+        "id_categoria": 3,
+        "leadId": 8388,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 12604,
+                "label": "",
+                "number": "56226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T13:44:07.000Z",
+                "updatedAt": "2023-06-08T13:44:07.000Z",
+                "id_leads": 11715
+            },
+            {
+                "phoneId": 12603,
+                "label": "",
+                "number": "56957302933",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-06-08T13:44:07.000Z",
+                "updatedAt": "2023-06-08T13:44:40.000Z",
+                "id_leads": 11715
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 13901,
+        "creation_date": "2023-07-28T13:43:34.000Z",
+        "last_date": "2023-08-08T13:37:13.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "77222545",
+        "tag_description": "SOLICITUD DE HORA DE CONTROL  \n\nRUT DEL PACIENTE: 77222545\nNOMBRE DEL PACIENTE: Berta Orfelina Cabezas Santis \nTELEFONO DE CONTACTO 963898569\n•Especialidad: diabetes\n•Médico Tratante: DR PAULINA EUGENIA JOFRE\n•Exámenes médicos: NO \n•Descripción del caso:HORA DE CONTROL \n\nRESPUESTA REQUERIMIENTO 07/08SE ASIGNA HORA EN UNIDAD CON DRA DE AGUIRRE DIA 28/09/2023 a las 10:00\n\n",
+        "tag_name": "Berta Orfelina Cabezas Santis ",
+        "status": "open",
+        "column": 1,
+        "position": 2,
+        "interest": 0,
+        "favorite": 0,
+        "group": 13901,
+        "id_categoria": 3,
+        "leadId": 10574,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 16933,
+                "label": "",
+                "number": "56226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-28T13:43:34.000Z",
+                "updatedAt": "2023-07-28T13:43:34.000Z",
+                "id_leads": 13901
+            },
+            {
+                "phoneId": 16932,
+                "label": "",
+                "number": "56963898569",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-28T13:43:34.000Z",
+                "updatedAt": "2023-07-28T13:44:21.000Z",
+                "id_leads": 13901
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 14007,
+        "creation_date": "2023-07-31T20:39:55.000Z",
+        "last_date": "2023-08-08T13:37:13.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "27255296-7",
+        "tag_description": "SOLICITUD AGENDAMIENTOS HORAS DE CONTROL\n• Rut Paciente: 27255296-7\n• Nombre Paciente: GIANELLA ALEXANDRA GUZMAN VEGA\n• Teléfono: 923985056\n• Especialidad: Pediatría \n• Médico Tratante: Daniela Depaoli\n• Exámenes Médicos:    no           \n• Tiene Carnet de Control: no \n• Fecha Prox. Control: Agosto 2023\n• Descripción del caso: madre de paciente solicita hora control.\n\n\nRESPUESTA DE REQUERIMIENTO 07-08 : AGENDAS DE DRA LLENA HASTA SEPTIEMBRE ,   semana del 04 al 08 de septiembre de 2023 SE REALIZARA APERTURA DE AGENDAS DE OCT NOV Y DIC CRS \n \n",
+        "tag_name": "GIANELLA ALEXANDRA GUZMAN VEGA",
+        "status": "open",
+        "column": 1,
+        "position": 3,
+        "interest": 0,
+        "favorite": 0,
+        "group": 14007,
+        "id_categoria": 3,
+        "leadId": 10680,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 17150,
+                "label": "",
+                "number": "226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-31T20:39:55.000Z",
+                "updatedAt": "2023-07-31T20:39:55.000Z",
+                "id_leads": 14007
+            },
+            {
+                "phoneId": 17151,
+                "label": "",
+                "number": "56923985056",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-31T20:39:55.000Z",
+                "updatedAt": "2023-07-31T20:40:26.000Z",
+                "id_leads": 14007
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 13785,
+        "creation_date": "2023-07-26T14:01:40.000Z",
+        "last_date": "2023-08-08T13:37:13.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "43630598",
+        "tag_description": "FARMACIA (MEDICAMENTOS FALTANTES)\n• Rut Paciente: 4363059-8\n• Nombre Paciente: NINFA MUÑOZ RODRÍGUEZ\n• Teléfono: 985331297\n• Especialidad: Diabetología\n• Receta Vigente: SI\n• Despacho Domicilio o Presencial: Despacho a Domicilio\n• Descripción del caso: PACIENTE INDICA QUE MEDICAMENTO INSULINA GLARGINA 100MG NO LLEGO A SU DOMICILIO\n\n\nRESPUESTA DE REQUERIMIENTO 07-08 : PACIENTE POSEE UNA ENTREGA EXITOSA EL DIA 25/07/2023, EN LA FOTO DE REFERENCIA SALE QUE EL PAQUETE DE MEDICAMENTOS ES REFRIGERADO POR LA INSULINA DENTRO DE ELLA.\n",
+        "tag_name": "NINFA MUÑOZ RODRÍGUEZ",
+        "status": "open",
+        "column": 1,
+        "position": 4,
+        "interest": 0,
+        "favorite": 0,
+        "group": 13785,
+        "id_categoria": 6,
+        "leadId": 10458,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 6,
+            "nombre": "Farmacia",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 16706,
+                "label": "",
+                "number": "56985331297",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-26T14:01:40.000Z",
+                "updatedAt": "2023-07-26T14:03:15.000Z",
+                "id_leads": 13785
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 13791,
+        "creation_date": "2023-07-26T14:49:21.000Z",
+        "last_date": "2023-08-08T13:37:13.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "2937930-0",
+        "tag_description": "SOLICITUD AGENDAMIENTOS HORAS DE CONTROL\n• Rut Paciente: 2937930-0\n• Nombre Paciente: JUAN GUILLERMO LÓPEZ ARAYA\n• Teléfono: 227937715\n• Especialidad: Broncopulmonar \n• Médico Tratante: Dra Patricia Arias\n• Exámenes Médicos: no            \n• Tiene Carnet de Control: no\n• Fecha Prox. Control: A finales de Agosto o primeros días de septiembre 2023\n• Descripción del caso: esposa de paciente solicita hora control. \n\n\nFARMACIA (MEDICAMENTOS FALTANTES)\n• Rut Paciente: 2937930-0\n• Nombre Paciente: JUAN GUILLERMO LÓPEZ ARAYA\n• Teléfono: 227937715\n• Especialidad: Neurología \n• Receta Vigente: si \n• Despacho Domicilio o Presencial: Domicilio \n• Descripción del caso: esposa de paciente indica que aún no recibe el medicamento Prolopa, ya le actualizaron receta el 06-06-23, desde Marzo que no tiene solución. \n\nRESPUESTA DE REQUERIMIENTO 07-08- : PACIENTE NO TIENE RECETA VIGENTE DE MEDICAMENTO LEVADOPA ,. SE ENVÍA TICKET A UNIDAD  DE NEUROLOGÍA INDICAN QUE RECETA ESTARÁ LISTA EL 01-09  DE LAS 08:00 A 11:00 \n\nRESPUESTA DE REQUERIMIENTO  BRONCOPULMONAR 07-08 : Sin horas de control disponibles. Paciente debe agenda hora en próxima apertura (11-15 septiembre). CRS \n\n\n",
+        "tag_name": "JUAN GUILLERMO LÓPEZ ARAYA",
+        "status": "open",
+        "column": 1,
+        "position": 5,
+        "interest": 0,
+        "favorite": 0,
+        "group": 13791,
+        "id_categoria": 3,
+        "leadId": 10464,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 16716,
+                "label": "",
+                "number": "56226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-26T14:49:21.000Z",
+                "updatedAt": "2023-07-26T14:49:21.000Z",
+                "id_leads": 13791
+            },
+            {
+                "phoneId": 16715,
+                "label": "",
+                "number": "56227937715",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-26T14:49:21.000Z",
+                "updatedAt": "2023-07-26T14:51:29.000Z",
+                "id_leads": 13791
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 14015,
+        "creation_date": "2023-07-31T22:42:19.000Z",
+        "last_date": "2023-08-08T13:37:13.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "65967790 ",
+        "tag_description": "HORA CONTROL\n•\tRut Paciente: 65967790 \n•\tNombre Paciente: LUIS ROSALINDO GILIBERTO ARAYA\n•\tTeléfono: 996441910 - \n•\tEspecialidad: CIRUGIA ADULTO\n•\tMédico Tratante:  DEVORA DANTA\n•\tExámenes Médicos:   NO\n•\tTiene Carnet de Control: NO\n•\tFecha prox. Control: 08-2023\n•\tDescripción del caso: DRA LE INDICÓ CONTROL PARA AGOSTO 2023      \n\n\nRESPUESTA DE REQUERIMIENTO 07-08 :  SE AGENDA CONTROL PARA EL 27/09/2023 hora 10:45 DRA DANTA \n        \n",
+        "tag_name": " LUIS ROSALINDO GILIBERTO ARAYA",
+        "status": "open",
+        "column": 1,
+        "position": 6,
+        "interest": 0,
+        "favorite": 0,
+        "group": 14015,
+        "id_categoria": 3,
+        "leadId": 10688,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 17166,
+                "label": "",
+                "number": "56226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-31T22:42:19.000Z",
+                "updatedAt": "2023-07-31T22:42:19.000Z",
+                "id_leads": 14015
+            },
+            {
+                "phoneId": 17165,
+                "label": "",
+                "number": "56996441910",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-31T22:42:19.000Z",
+                "updatedAt": "2023-07-31T22:44:31.000Z",
+                "id_leads": 14015
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 13488,
+        "creation_date": "2023-07-19T13:53:08.000Z",
+        "last_date": "2023-08-08T13:37:13.000Z",
+        "closing_date": null,
+        "phone1": "56226121200",
+        "id_agent": 57,
+        "tag_title": "6338768-1",
+        "tag_description": "SOLICITUD AGENDAMIENTOS HORAS DE CONTROL\n• Rut Paciente: 6338768-1\n• Nombre Paciente: JUAN VICENTE REYES ORELLANA \n• Teléfono: 23854184 - 923854184\n• Especialidad: Nefrología (no se dializa)\n• Médico Tratante: Fernando Carreño\n• Exámenes Médicos:   SI             \n• Tiene Carnet de Control: no\n• Fecha Prox. Control: Agosto 2023\n• Descripción del caso: paciente solicita hora control. \n\nSOLICITUD AGENDAMIENTOS HORAS DE CONTROL\n• Rut Paciente: 6338768-1\n• Nombre Paciente: JUAN VICENTE REYES ORELLANA \n• Teléfono: 23854184 \n• Especialidad: Broncopulmonar \n• Médico Tratante: Edgardo Ossandon\n• Exámenes Médicos: no              \n• Tiene Carnet de Control: no\n• Fecha Prox. Control: septiembre u octubre 2023\n• Descripción del caso: paciente solicita hora control. \n\nSOLICITUD AGENDAMIENTOS HORAS DE CONTROL\n• Rut Paciente: 6338768-1\n• Nombre Paciente: JUAN VICENTE REYES ORELLANA \n• Teléfono: 23854184 \n• Especialidad: Nutrición \n• Médico Tratante: Francisca Sobarzo\n• Exámenes Médicos: no              \n• Tiene Carnet de Control: no\n• Fecha Prox. Control: julio 2023\n• Descripción del caso: paciente solicita hora control. ** HORA EN SISTEMA DADA POR LA MISMA NUTRI  NO APLICA \n\nRESPUESTA DE REQUERIMIENTO NEFROLOGIA 03-08-2023 : PACIENTE QUEDA EN LISTA DE ESPERA PARA APERTURA DE AGENDA DEBE ESPERAR LLAMADA \n\nRESPUESTA DE BRONCOPULMONAR 07-08 : Sin horas de control disponibles, visto por última vez en mayo con indicación en ficha de control en octubre. Paciente debe agendar hora en próxima apertura (11-15 septiembre). Se da hora de control a sala ERA.\nCita aceptada el dia 05/09/2023 a las 09:00 para el paciente JUAN VICENTE REYES ORELLANA con KLGA. TANNIA MATAMALA\n*CERRAR\n\n\n",
+        "tag_name": "JUAN VICENTE REYES ORELLANA ",
+        "status": "open",
+        "column": 1,
+        "position": 7,
+        "interest": 0,
+        "favorite": 0,
+        "group": 13488,
+        "id_categoria": 3,
+        "leadId": 10161,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 16070,
+                "label": "",
+                "number": "23854184",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-19T13:53:08.000Z",
+                "updatedAt": "2023-07-19T13:55:12.000Z",
+                "id_leads": 13488
+            },
+            {
+                "phoneId": 16071,
+                "label": "",
+                "number": "56226121200",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-19T13:53:08.000Z",
+                "updatedAt": "2023-07-19T13:53:08.000Z",
+                "id_leads": 13488
+            }
+        ]
+    },
+    {
+        "tagData": null,
+        "id_leads": 13890,
+        "creation_date": "2023-07-27T22:37:11.000Z",
+        "last_date": "2023-08-08T13:37:13.000Z",
+        "closing_date": null,
+        "phone1": "56222890483",
+        "id_agent": 57,
+        "tag_title": "",
+        "tag_description": "SOLICITUD AGENDAMIENTOS HORAS DE CONTROL\n• Rut Paciente: 5660565-7\n• Nombre Paciente: MARÍA ARAVENA YÁÑEZ\n• Teléfono: 995599309 - 222890483\n• Especialidad: CIRUGÍA VASCULAR\n• Médico Tratante: FRANCISCA MUÑOZ\n• Exámenes Médicos: NO              \n• Tiene Carnet de Control:  NO\n° Se Dializa: NO\n• Fecha Prox. Control: 07-2023\n• Descripción del caso: PACIENTE SOLICITA HORA MEDICA PARA CONTROL\n\nRESPUESTA REQUERIMIENTO 07/08: SE ASIGNA HORA EN UNIDAD CON DRA PAVEZ DIA 01/09/2023 a las 13:45 \n\n\n",
+        "tag_name": "MARÍA ARAVENA YÁÑEZ",
+        "status": "open",
+        "column": 1,
+        "position": 8,
+        "interest": 0,
+        "favorite": 0,
+        "group": 13890,
+        "id_categoria": 3,
+        "leadId": 10563,
+        "empresasId": 2,
+        "callsCount": 1,
+        "conversationsCount": 0,
+        "formsCount": 0,
+        "usuario": {
+            "name": "SUPERVISOR 01"
+        },
+        "categoria": {
+            "cierres": false,
+            "tagData": {},
+            "id_categoria": 3,
+            "nombre": "Controles",
+            "color": "#F4FB46",
+            "empresasId": 2
+        },
+        "phones": [
+            {
+                "phoneId": 16909,
+                "label": "",
+                "number": "222890483",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-27T22:37:11.000Z",
+                "updatedAt": "2023-07-27T22:37:11.000Z",
+                "id_leads": 13890
+            },
+            {
+                "phoneId": 16910,
+                "label": "",
+                "number": "56995599309",
+                "rank": 0,
+                "qualification": 70,
+                "active": true,
+                "createdAt": "2023-07-27T22:37:11.000Z",
+                "updatedAt": "2023-07-27T22:39:50.000Z",
+                "id_leads": 13890
+            }
+        ]
+    }
+]

@@ -1,0 +1,757 @@
+{
+    "count": 11034,
+    "rows": [
+        {
+            "tagData": null,
+            "id_leads": 3334,
+            "creation_date": "2023-01-11T19:08:02.000Z",
+            "last_date": "2023-08-04T21:26:02.000Z",
+            "closing_date": "2023-02-13T14:50:31.000Z",
+            "phone1": "56973432120",
+            "id_agent": 27,
+            "tag_title": "",
+            "tag_description": null,
+            "tag_name": "",
+            "status": "accepted",
+            "column": 999999,
+            "position": 118,
+            "interest": 0,
+            "favorite": 0,
+            "group": 3334,
+            "id_categoria": null,
+            "leadId": 9,
+            "empresasId": 2,
+            "logs": [
+                {
+                    "id_logs": 8893,
+                    "creation_date": "2023-01-11T19:08:03.000Z",
+                    "type": "llamada",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Llamada Realizada",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8894,
+                    "creation_date": "2023-01-11T19:09:46.000Z",
+                    "type": "llamada",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Se desvinculó una llamada del número 56973432120",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8895,
+                    "creation_date": "2023-01-11T19:10:03.000Z",
+                    "type": "estado",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Movido de Procesados, posición 0 a Trabajo en progreso posición 1",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8896,
+                    "creation_date": "2023-01-11T19:10:28.000Z",
+                    "type": "datos",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Actualización del nivel del interés a Medio",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8897,
+                    "creation_date": "2023-01-11T20:04:31.000Z",
+                    "type": "estado",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Movido de Trabajo en progreso, posición 1 a En espera posición 1",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8898,
+                    "creation_date": "2023-01-11T20:04:34.000Z",
+                    "type": "estado",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Movido de En espera, posición 1 a Seguimiento posición 1",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8899,
+                    "creation_date": "2023-01-11T20:04:36.000Z",
+                    "type": "estado",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Movido de Seguimiento, posición 1 a Procesados posición 1",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8900,
+                    "creation_date": "2023-01-11T20:04:38.000Z",
+                    "type": "datos",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Actualización del nivel del interés a Normal",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8901,
+                    "creation_date": "2023-01-11T20:04:51.000Z",
+                    "type": "datos",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Actualización del nivel del interés a Alto",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8902,
+                    "creation_date": "2023-01-11T20:04:54.000Z",
+                    "type": "datos",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Actualización del nivel del interés a Normal",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8903,
+                    "creation_date": "2023-01-11T20:04:57.000Z",
+                    "type": "estado",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Movido de Procesados, posición 1 a En espera posición 1",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8904,
+                    "creation_date": "2023-01-11T20:05:01.000Z",
+                    "type": "estado",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Movido de En espera, posición 1 a Seguimiento posición 1",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8905,
+                    "creation_date": "2023-01-11T20:05:12.000Z",
+                    "type": "estado",
+                    "id_leads": 3334,
+                    "id_agent": 27,
+                    "info_1": "Movido de Seguimiento, posición 1 a Procesados posición 1",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 27428,
+                    "creation_date": "2023-02-13T14:50:23.000Z",
+                    "type": "estado",
+                    "id_leads": 3334,
+                    "id_agent": 57,
+                    "info_1": "Movido de Procesados, posición 13 a Trabajo en progreso posición 4",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 27429,
+                    "creation_date": "2023-02-13T14:50:32.000Z",
+                    "type": "nota final",
+                    "id_leads": 3334,
+                    "id_agent": 57,
+                    "info_1": "CASO CERRADO",
+                    "info_2": "",
+                    "info_3": ""
+                }
+            ],
+            "usuario": {
+                "metadata": {
+                    "checkDates": {
+                        "whatsapp": "2023-08-05 01:59:39"
+                    }
+                },
+                "id_usuario": 27,
+                "name": "DIEGO CEA",
+                "anexo": 104,
+                "empresasId": 2,
+                "webPhonePass": "6694071aa8f27047e5ab55dbe4c82517",
+                "createdAt": "2022-12-09T11:54:01.000Z",
+                "updatedAt": "2023-08-04T21:59:39.000Z"
+            },
+            "categoria": null
+        },
+        {
+            "tagData": null,
+            "id_leads": 3333,
+            "creation_date": "2023-01-11T19:06:25.000Z",
+            "last_date": "2023-08-08T17:16:20.000Z",
+            "closing_date": "2023-01-20T12:17:36.000Z",
+            "phone1": "",
+            "id_agent": 56,
+            "tag_title": "",
+            "tag_description": null,
+            "tag_name": "",
+            "status": "accepted",
+            "column": 999999,
+            "position": 144,
+            "interest": 0,
+            "favorite": 0,
+            "group": 3333,
+            "id_categoria": null,
+            "leadId": 8,
+            "empresasId": 2,
+            "logs": [
+                {
+                    "id_logs": 8892,
+                    "creation_date": "2023-01-11T19:06:25.000Z",
+                    "type": "nota",
+                    "id_leads": 3333,
+                    "id_agent": 56,
+                    "info_1": "Caso nuevo creado",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 9915,
+                    "creation_date": "2023-01-20T12:17:36.000Z",
+                    "type": "nota final",
+                    "id_leads": 3333,
+                    "id_agent": 56,
+                    "info_1": "Cerrar prueba",
+                    "info_2": "",
+                    "info_3": ""
+                }
+            ],
+            "usuario": {
+                "metadata": {
+                    "checkDates": {
+                        "whatsapp": "2023-01-13 15:13:43"
+                    }
+                },
+                "id_usuario": 56,
+                "name": " RESOLUTOR HOSPITALIZADO",
+                "anexo": 203,
+                "empresasId": 2,
+                "webPhonePass": "6694071aa8f27047e5ab55dbe4c82517",
+                "createdAt": "2022-12-09T11:57:28.000Z",
+                "updatedAt": "2023-01-13T12:13:43.000Z"
+            },
+            "categoria": null
+        },
+        {
+            "tagData": null,
+            "id_leads": 3332,
+            "creation_date": "2023-01-11T18:51:23.000Z",
+            "last_date": "2023-08-08T17:16:20.000Z",
+            "closing_date": "2023-01-11T19:03:50.000Z",
+            "phone1": "56966275800",
+            "id_agent": 56,
+            "tag_title": "caso de prueba",
+            "tag_description": "dd\nd\nd\nd\n",
+            "tag_name": "Sebastian",
+            "status": "accepted",
+            "column": 999999,
+            "position": 145,
+            "interest": 0,
+            "favorite": 0,
+            "group": 3332,
+            "id_categoria": null,
+            "leadId": 7,
+            "empresasId": 2,
+            "logs": [
+                {
+                    "id_logs": 8888,
+                    "creation_date": "2023-01-11T18:51:23.000Z",
+                    "type": "llamada",
+                    "id_leads": 3332,
+                    "id_agent": 56,
+                    "info_1": "Llamada Recibida",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8889,
+                    "creation_date": "2023-01-11T18:53:22.000Z",
+                    "type": "datos",
+                    "id_leads": 3332,
+                    "id_agent": 56,
+                    "info_1": "Actualización de la descripción del caso.",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8890,
+                    "creation_date": "2023-01-11T18:56:27.000Z",
+                    "type": "nota",
+                    "id_leads": 3332,
+                    "id_agent": 56,
+                    "info_1": "NOTA MAUAL",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8891,
+                    "creation_date": "2023-01-11T19:03:50.000Z",
+                    "type": "nota final",
+                    "id_leads": 3332,
+                    "id_agent": 56,
+                    "info_1": "se resolvio",
+                    "info_2": "",
+                    "info_3": ""
+                }
+            ],
+            "usuario": {
+                "metadata": {
+                    "checkDates": {
+                        "whatsapp": "2023-01-13 15:13:43"
+                    }
+                },
+                "id_usuario": 56,
+                "name": " RESOLUTOR HOSPITALIZADO",
+                "anexo": 203,
+                "empresasId": 2,
+                "webPhonePass": "6694071aa8f27047e5ab55dbe4c82517",
+                "createdAt": "2022-12-09T11:57:28.000Z",
+                "updatedAt": "2023-01-13T12:13:43.000Z"
+            },
+            "categoria": null
+        },
+        {
+            "tagData": null,
+            "id_leads": 3331,
+            "creation_date": "2023-01-10T20:44:11.000Z",
+            "last_date": "2023-08-04T19:38:41.000Z",
+            "closing_date": "2023-01-18T17:46:40.000Z",
+            "phone1": "56982823086",
+            "id_agent": 25,
+            "tag_title": "",
+            "tag_description": null,
+            "tag_name": "",
+            "status": "accepted",
+            "column": 999999,
+            "position": 77,
+            "interest": 0,
+            "favorite": 0,
+            "group": 3331,
+            "id_categoria": null,
+            "leadId": 6,
+            "empresasId": 2,
+            "logs": [
+                {
+                    "id_logs": 8887,
+                    "creation_date": "2023-01-10T20:44:11.000Z",
+                    "type": "llamada",
+                    "id_leads": 3331,
+                    "id_agent": 25,
+                    "info_1": "Llamada Realizada",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 9140,
+                    "creation_date": "2023-01-18T17:46:41.000Z",
+                    "type": "nota final",
+                    "id_leads": 3331,
+                    "id_agent": 25,
+                    "info_1": "de prueba",
+                    "info_2": "",
+                    "info_3": ""
+                }
+            ],
+            "usuario": {
+                "metadata": {
+                    "checkDates": {
+                        "whatsapp": "2023-08-08 22:57:00"
+                    }
+                },
+                "id_usuario": 25,
+                "name": "CLAUDIA BUSTAMANTE",
+                "anexo": 102,
+                "empresasId": 2,
+                "webPhonePass": "6694071aa8f27047e5ab55dbe4c82517",
+                "createdAt": "2022-12-09T11:53:26.000Z",
+                "updatedAt": "2023-08-08T18:57:00.000Z"
+            },
+            "categoria": null
+        },
+        {
+            "tagData": null,
+            "id_leads": 3330,
+            "creation_date": "2023-01-09T20:38:02.000Z",
+            "last_date": "2023-08-08T17:27:17.000Z",
+            "closing_date": "2023-01-27T19:03:25.000Z",
+            "phone1": "",
+            "id_agent": 59,
+            "tag_title": "",
+            "tag_description": "descrip\n\nRESUELVE:\nInformar la nueva hora para dr. reyes dia 20 de enero a las 11:00",
+            "tag_name": "",
+            "status": "accepted",
+            "column": 999999,
+            "position": 72,
+            "interest": 0,
+            "favorite": 0,
+            "group": 3330,
+            "id_categoria": null,
+            "leadId": 5,
+            "empresasId": 2,
+            "logs": [
+                {
+                    "id_logs": 8886,
+                    "creation_date": "2023-01-09T20:38:02.000Z",
+                    "type": "nota",
+                    "id_leads": 3330,
+                    "id_agent": 59,
+                    "info_1": "Caso nuevo creado",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8974,
+                    "creation_date": "2023-01-17T17:50:52.000Z",
+                    "type": "datos",
+                    "id_leads": 3330,
+                    "id_agent": 59,
+                    "info_1": "Actualización de la descripción del caso.",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 15114,
+                    "creation_date": "2023-01-27T19:03:25.000Z",
+                    "type": "nota final",
+                    "id_leads": 3330,
+                    "id_agent": 59,
+                    "info_1": "prueba",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 191602,
+                    "creation_date": "2023-08-03T14:51:39.000Z",
+                    "type": "llamada",
+                    "id_leads": 3330,
+                    "id_agent": 23,
+                    "info_1": "Llamada Recibida",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 191603,
+                    "creation_date": "2023-08-03T14:51:39.000Z",
+                    "type": "llamada",
+                    "id_leads": 3330,
+                    "id_agent": 23,
+                    "info_1": "Se adjuntó una llamada",
+                    "info_2": "162581.190385",
+                    "info_3": ""
+                }
+            ],
+            "usuario": {
+                "metadata": {
+                    "checkDates": {
+                        "whatsapp": "2023-08-04 22:32:48"
+                    }
+                },
+                "id_usuario": 59,
+                "name": "SUPERVISOR 03",
+                "anexo": 197,
+                "empresasId": 2,
+                "webPhonePass": "6694071aa8f27047e5ab55dbe4c82517",
+                "createdAt": "2022-12-09T11:57:56.000Z",
+                "updatedAt": "2023-08-04T18:32:48.000Z"
+            },
+            "categoria": null
+        },
+        {
+            "tagData": null,
+            "id_leads": 3329,
+            "creation_date": "2022-12-23T11:16:27.000Z",
+            "last_date": "2023-08-04T21:26:02.000Z",
+            "closing_date": "2023-02-13T14:47:48.000Z",
+            "phone1": "56962488212",
+            "id_agent": 27,
+            "tag_title": "",
+            "tag_description": null,
+            "tag_name": "",
+            "status": "accepted",
+            "column": 999999,
+            "position": 122,
+            "interest": 0,
+            "favorite": 0,
+            "group": 3329,
+            "id_categoria": null,
+            "leadId": 4,
+            "empresasId": 2,
+            "logs": [
+                {
+                    "id_logs": 8881,
+                    "creation_date": "2022-12-23T11:16:27.000Z",
+                    "type": "llamada",
+                    "id_leads": 3329,
+                    "id_agent": 27,
+                    "info_1": "Llamada Realizada",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8882,
+                    "creation_date": "2022-12-23T11:26:09.000Z",
+                    "type": "llamada",
+                    "id_leads": 3329,
+                    "id_agent": 27,
+                    "info_1": "Se desvinculó una llamada del número 56962488212",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8883,
+                    "creation_date": "2022-12-23T11:26:36.000Z",
+                    "type": "estado",
+                    "id_leads": 3329,
+                    "id_agent": 27,
+                    "info_1": "Movido de Procesados, posición 0 a En espera posición 1",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8884,
+                    "creation_date": "2022-12-23T11:26:40.000Z",
+                    "type": "estado",
+                    "id_leads": 3329,
+                    "id_agent": 27,
+                    "info_1": "Movido de En espera, posición 1 a Trabajo en progreso posición 1",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8885,
+                    "creation_date": "2022-12-23T11:26:43.000Z",
+                    "type": "estado",
+                    "id_leads": 3329,
+                    "id_agent": 27,
+                    "info_1": "Movido de Trabajo en progreso, posición 1 a Seguimiento posición 1",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 27412,
+                    "creation_date": "2023-02-13T14:47:48.000Z",
+                    "type": "nota final",
+                    "id_leads": 3329,
+                    "id_agent": 57,
+                    "info_1": "CASO CERRADO",
+                    "info_2": "",
+                    "info_3": ""
+                }
+            ],
+            "usuario": {
+                "metadata": {
+                    "checkDates": {
+                        "whatsapp": "2023-08-05 01:59:39"
+                    }
+                },
+                "id_usuario": 27,
+                "name": "DIEGO CEA",
+                "anexo": 104,
+                "empresasId": 2,
+                "webPhonePass": "6694071aa8f27047e5ab55dbe4c82517",
+                "createdAt": "2022-12-09T11:54:01.000Z",
+                "updatedAt": "2023-08-04T21:59:39.000Z"
+            },
+            "categoria": null
+        },
+        {
+            "tagData": null,
+            "id_leads": 3328,
+            "creation_date": "2022-12-23T11:04:56.000Z",
+            "last_date": "2023-08-04T21:26:02.000Z",
+            "closing_date": "2023-02-13T14:52:14.000Z",
+            "phone1": "56985105219",
+            "id_agent": 27,
+            "tag_title": "",
+            "tag_description": null,
+            "tag_name": "",
+            "status": "accepted",
+            "column": 999999,
+            "position": 108,
+            "interest": 0,
+            "favorite": 0,
+            "group": 3328,
+            "id_categoria": null,
+            "leadId": 3,
+            "empresasId": 2,
+            "logs": [
+                {
+                    "id_logs": 8880,
+                    "creation_date": "2022-12-23T11:04:56.000Z",
+                    "type": "llamada",
+                    "id_leads": 3328,
+                    "id_agent": 27,
+                    "info_1": "Llamada Recibida",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 27452,
+                    "creation_date": "2023-02-13T14:52:15.000Z",
+                    "type": "nota final",
+                    "id_leads": 3328,
+                    "id_agent": 57,
+                    "info_1": "CASO CERRADO",
+                    "info_2": "",
+                    "info_3": ""
+                }
+            ],
+            "usuario": {
+                "metadata": {
+                    "checkDates": {
+                        "whatsapp": "2023-08-05 01:59:39"
+                    }
+                },
+                "id_usuario": 27,
+                "name": "DIEGO CEA",
+                "anexo": 104,
+                "empresasId": 2,
+                "webPhonePass": "6694071aa8f27047e5ab55dbe4c82517",
+                "createdAt": "2022-12-09T11:54:01.000Z",
+                "updatedAt": "2023-08-04T21:59:39.000Z"
+            },
+            "categoria": null
+        },
+        {
+            "tagData": null,
+            "id_leads": 3327,
+            "creation_date": "2022-12-22T20:08:16.000Z",
+            "last_date": "2023-08-04T23:29:08.000Z",
+            "closing_date": "2023-01-26T15:11:34.000Z",
+            "phone1": "56988535737",
+            "id_agent": 24,
+            "tag_title": "",
+            "tag_description": null,
+            "tag_name": "",
+            "status": "accepted",
+            "column": 999999,
+            "position": 71,
+            "interest": 0,
+            "favorite": 0,
+            "group": 3327,
+            "id_categoria": null,
+            "leadId": 2,
+            "empresasId": 2,
+            "logs": [
+                {
+                    "id_logs": 8878,
+                    "creation_date": "2022-12-22T20:08:16.000Z",
+                    "type": "llamada",
+                    "id_leads": 3327,
+                    "id_agent": 24,
+                    "info_1": "Llamada Recibida",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 8879,
+                    "creation_date": "2022-12-22T20:13:00.000Z",
+                    "type": "llamada",
+                    "id_leads": 3327,
+                    "id_agent": 24,
+                    "info_1": "Se desvinculó una llamada del número 56988535737",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 14040,
+                    "creation_date": "2023-01-26T15:11:34.000Z",
+                    "type": "nota final",
+                    "id_leads": 3327,
+                    "id_agent": 24,
+                    "info_1": "prueba",
+                    "info_2": "",
+                    "info_3": ""
+                }
+            ],
+            "usuario": {
+                "metadata": {
+                    "checkDates": {
+                        "whatsapp": "2023-08-08 08:55:53"
+                    }
+                },
+                "id_usuario": 24,
+                "name": "OLIVER FLACCO",
+                "anexo": 101,
+                "empresasId": 2,
+                "webPhonePass": "6694071aa8f27047e5ab55dbe4c82517",
+                "createdAt": "2022-12-09T11:53:12.000Z",
+                "updatedAt": "2023-08-08T04:55:53.000Z"
+            },
+            "categoria": null
+        },
+        {
+            "tagData": null,
+            "id_leads": 3326,
+            "creation_date": "2022-12-21T13:02:01.000Z",
+            "last_date": "2023-08-04T23:29:08.000Z",
+            "closing_date": "2023-01-26T15:11:43.000Z",
+            "phone1": "966275800",
+            "id_agent": 24,
+            "tag_title": "",
+            "tag_description": null,
+            "tag_name": "",
+            "status": "accepted",
+            "column": 999999,
+            "position": 70,
+            "interest": 0,
+            "favorite": 0,
+            "group": 3326,
+            "id_categoria": null,
+            "leadId": 1,
+            "empresasId": 2,
+            "logs": [
+                {
+                    "id_logs": 8877,
+                    "creation_date": "2022-12-21T13:02:01.000Z",
+                    "type": "llamada",
+                    "id_leads": 3326,
+                    "id_agent": 24,
+                    "info_1": "Llamada Recibida",
+                    "info_2": "",
+                    "info_3": ""
+                },
+                {
+                    "id_logs": 14042,
+                    "creation_date": "2023-01-26T15:11:43.000Z",
+                    "type": "nota final",
+                    "id_leads": 3326,
+                    "id_agent": 24,
+                    "info_1": "prueba",
+                    "info_2": "",
+                    "info_3": ""
+                }
+            ],
+            "usuario": {
+                "metadata": {
+                    "checkDates": {
+                        "whatsapp": "2023-08-08 08:55:53"
+                    }
+                },
+                "id_usuario": 24,
+                "name": "OLIVER FLACCO",
+                "anexo": 101,
+                "empresasId": 2,
+                "webPhonePass": "6694071aa8f27047e5ab55dbe4c82517",
+                "createdAt": "2022-12-09T11:53:12.000Z",
+                "updatedAt": "2023-08-08T04:55:53.000Z"
+            },
+            "categoria": null
+        }
+    ]
+}
